@@ -1,0 +1,59 @@
+{
+    "EmployeePayrollDB": [
+      {
+        "id": 2,
+        "_name": "Bill Gates",
+        "_gender": "male",
+        "_department": [
+          "Engineer"
+        ],
+        "_salary": "475500",
+        "_startDate": "2019-10-28T18:30:00.000Z",
+        "_note": "Terrific Engineer",
+        "_profilePic": "../assets/profile-images/Ellipse -3.png"
+      },
+      {
+        "_name": "MacKenzie Scott",
+        "_gender": "female",
+        "_department": [
+          "Others"
+        ],
+        "_salary": "370900",
+        "_startDate": "2020-11-09T18:30:00.000Z",
+        "_note": "Richest Women",
+        "_profilePic": "../assets/profile-images/Ellipse -1.png",
+        "id": 3
+      },
+      {
+        "_name": "Jeff Bezos",
+        "_profilePic": "../assets/profile-images/Ellipse -3.png",
+        "_gender": "male",
+        "_department": [
+          "HR",
+          "Sales",
+          "Finance",
+          "Others"
+        ],
+        "_salary": "497300",
+        "_note": "I am Rich.",
+        "_startDate": "2020-11-16T18:30:00.000Z",
+        "id": 4
+      },
+      {
+        "_name": "Elon Musk",
+        "_profilePic": "../assets/profile-images/Ellipse -5.png",
+        "_gender": "male",
+        "_department": [
+          "HR",
+          "Sales",
+          "Finance",
+          "Engineer",
+          "Others"
+        ],
+        "_salary": "480700",
+        "_note": "All in one",
+        "_startDate": "2020-11-14T18:30:00.000Z",
+        "id": 5
+      }
+    ]
+  }
