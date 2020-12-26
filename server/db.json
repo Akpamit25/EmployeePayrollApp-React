@@ -1,5 +1,5 @@
 {
-  "EmployeePayrollDB": [
+  "employee": [
     {
       "id": 2,
       "_name": "Bill Gates",
@@ -114,10 +114,10 @@
       ],
       "gender": "male",
       "salary": "557579",
-      "startDate": "13 July 2019",
+      "startDate": "15 Aug 2019",
       "notes": "Narayan Here",
       "id": 10,
-      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+      "profileUrl": "../../assets/profile-images/Ellipse-8.png"
     },
     {
       "name": "Narayan Sharma",
