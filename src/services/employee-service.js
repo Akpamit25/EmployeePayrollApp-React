@@ -1,10 +1,12 @@
 import config from "../config/config";
-const axios = require('axios').default;
+import AxiosService from "../services/axios-service.js";
 
 export default class EmployeeService {
   baseUrl = config.baseUrl;
+  tokenRequired = false;
+  httpOptions = null;
 
   addEmployee(data) {
-    return axios.post(`${this.baseUrl}EmployeePayrollDB`, data);
+    return AxiosService.postService(`${this.baseUrl}EmployeePayrollDB`, data);
   }
 }
