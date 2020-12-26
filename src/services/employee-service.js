@@ -7,6 +7,15 @@ export default class EmployeeService {
   httpOptions = null;
 
   addEmployee(data) {
-    return AxiosService.postService(`${this.baseUrl}EmployeePayrollDB`, data);
+    return AxiosService.postService(`${this.baseUrl}employee`, data);
+  }
+  getAllEmployee() {
+    return AxiosService.getService(`${this.baseUrl}employee`);
+  }
+  getEmployee(id) {
+    return AxiosService.getService(`${this.baseUrl}employee/${id}`);
+  }
+  deleteEmployee(id) {
+    return AxiosService.deleteService(`${this.baseUrl}employee/${id}`);
   }
 }
