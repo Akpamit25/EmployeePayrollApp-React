@@ -200,6 +200,31 @@
       "notes": "Hello Folks !",
       "id": 16,
       "profileUrl": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Anjali Arora",
+      "departMent": [
+        "Others"
+      ],
+      "gender": "female",
+      "salary": "2494959",
+      "startDate": "6 May 2016",
+      "notes": "Old Employee !!",
+      "id": 17,
+      "profileUrl": "../../assets/profile-images/Ellipse-1.png"
+    },
+    {
+      "name": "Success",
+      "departMent": [
+        "Others",
+        "Engineer"
+      ],
+      "gender": "male",
+      "salary": "4566556",
+      "startDate": "6 Jan 2020",
+      "notes": "testing uc5",
+      "id": 18,
+      "profileUrl": "../../assets/profile-images/Ellipse-3.png"
     }
   ]
 }
