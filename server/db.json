@@ -1,59 +1,177 @@
 {
-    "EmployeePayrollDB": [
-      {
-        "id": 2,
-        "_name": "Bill Gates",
-        "_gender": "male",
-        "_department": [
-          "Engineer"
-        ],
-        "_salary": "475500",
-        "_startDate": "2019-10-28T18:30:00.000Z",
-        "_note": "Terrific Engineer",
-        "_profilePic": "../assets/profile-images/Ellipse -3.png"
-      },
-      {
-        "_name": "MacKenzie Scott",
-        "_gender": "female",
-        "_department": [
-          "Others"
-        ],
-        "_salary": "370900",
-        "_startDate": "2020-11-09T18:30:00.000Z",
-        "_note": "Richest Women",
-        "_profilePic": "../assets/profile-images/Ellipse -1.png",
-        "id": 3
-      },
-      {
-        "_name": "Jeff Bezos",
-        "_profilePic": "../assets/profile-images/Ellipse -3.png",
-        "_gender": "male",
-        "_department": [
-          "HR",
-          "Sales",
-          "Finance",
-          "Others"
-        ],
-        "_salary": "497300",
-        "_note": "I am Rich.",
-        "_startDate": "2020-11-16T18:30:00.000Z",
-        "id": 4
-      },
-      {
-        "_name": "Elon Musk",
-        "_profilePic": "../assets/profile-images/Ellipse -5.png",
-        "_gender": "male",
-        "_department": [
-          "HR",
-          "Sales",
-          "Finance",
-          "Engineer",
-          "Others"
-        ],
-        "_salary": "480700",
-        "_note": "All in one",
-        "_startDate": "2020-11-14T18:30:00.000Z",
-        "id": 5
-      }
-    ]
-  }
+  "EmployeePayrollDB": [
+    {
+      "id": 2,
+      "_name": "Bill Gates",
+      "_gender": "male",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "475500",
+      "_startDate": "2019-10-28T18:30:00.000Z",
+      "_note": "Terrific Engineer",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "_name": "MacKenzie Scott",
+      "_gender": "female",
+      "_department": [
+        "Others"
+      ],
+      "_salary": "370900",
+      "_startDate": "2020-11-09T18:30:00.000Z",
+      "_note": "Richest Women",
+      "_profilePic": "../assets/profile-images/Ellipse -1.png",
+      "id": 3
+    },
+    {
+      "_name": "Jeff Bezos",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Others"
+      ],
+      "_salary": "497300",
+      "_note": "I am Rich.",
+      "_startDate": "2020-11-16T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "_name": "Elon Musk",
+      "_profilePic": "../assets/profile-images/Ellipse -5.png",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "_salary": "480700",
+      "_note": "All in one",
+      "_startDate": "2020-11-14T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "name": "Amit",
+      "departMent": [
+        "HR",
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "500000",
+      "startDate": "16 March 2017",
+      "notes": "hello",
+      "id": 6,
+      "profileUrl": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Amit",
+      "departMent": [
+        "HR",
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "500000",
+      "startDate": "16 March 2017",
+      "notes": "hello",
+      "id": 7,
+      "profileUrl": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Ramesh",
+      "departMent": [
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "340000",
+      "startDate": "4 April 2018",
+      "notes": "Hlo",
+      "id": 8,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Ramesh",
+      "departMent": [
+        "Sales"
+      ],
+      "gender": "male",
+      "salary": "340000",
+      "startDate": "4 April 2018",
+      "notes": "Hlo",
+      "id": 9,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Narayan Sharma",
+      "departMent": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "557579",
+      "startDate": "13 July 2019",
+      "notes": "Narayan Here",
+      "id": 10,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Narayan Sharma",
+      "departMent": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "557579",
+      "startDate": "13 July 2019",
+      "notes": "Narayan Here",
+      "id": 11,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Narayan Sharma",
+      "departMent": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "557579",
+      "startDate": "13 July 2019",
+      "notes": "Narayan Here",
+      "id": 12,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Narayan Sharma",
+      "departMent": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "salary": "557579",
+      "startDate": "13 July 2019",
+      "notes": "Narayan Here Again",
+      "id": 13,
+      "profileUrl": "../../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Abhilasha Kumari",
+      "departMent": [
+        "Sales"
+      ],
+      "gender": "female",
+      "salary": "585995",
+      "startDate": "7 Dec 2019",
+      "notes": "New Employee",
+      "id": 14,
+      "profileUrl": "../../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
