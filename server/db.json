@@ -172,6 +172,34 @@
       "notes": "New Employee",
       "id": 14,
       "profileUrl": "../../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Rajesh",
+      "departMent": [
+        "Sales",
+        "Finance",
+        "Others"
+      ],
+      "gender": "male",
+      "salary": "646748",
+      "startDate": "19 March 2018",
+      "notes": "Hello Folks !",
+      "id": 15,
+      "profileUrl": "../../assets/profile-images/Ellipse -8.png"
+    },
+    {
+      "name": "Rajesh",
+      "departMent": [
+        "Sales",
+        "Finance",
+        "Others"
+      ],
+      "gender": "male",
+      "salary": "646748",
+      "startDate": "19 March 2018",
+      "notes": "Hello Folks !",
+      "id": 16,
+      "profileUrl": "../../assets/profile-images/Ellipse -8.png"
     }
   ]
 }
